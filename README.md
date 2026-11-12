@@ -4,7 +4,7 @@
 
 Analyzed an **IEEE 802.11 packet capture in Wireshark** to inspect wireless beacon frames, access-point parameters, MAC and IP address relationships, TCP traffic, and the client's disconnection, authentication and association. The lab documents **18 questions** using captured-packet evidence.
 
-**Lab report:** [View the original 19-page PDF](docs/CYSE425_Lab3_Report.pdf)
+**Lab report:** [View the 19-page report PDF (optimized for GitHub)](docs/CYSE425_Lab3_Report.pdf)
 
 ## At a glance
 
